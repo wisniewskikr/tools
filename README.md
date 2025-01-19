@@ -4,3 +4,4 @@
 | Stripe                         | Payment platrofm                                                |
 | localhost.run                  | Tool for mapping of localhost                                   |
 | sendGrid                       | Tool for sending emails                                         |
+| mailtrap                       | Free tool for sending emails                                                                |
