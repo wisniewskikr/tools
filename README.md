@@ -6,6 +6,7 @@
 | localhost.run                  | Tool for mapping of localhost                                   |
 | sendGrid                       | Tool for sending emails                                         |
 | mailtrap                       | Free tool for sending emails                                    |
+| httpstat.us                    | Web application which returns statuses: 200, 400 etc.           |
 
 **Desktop Tools**:
 | Name                   | Description                                                                   | 
