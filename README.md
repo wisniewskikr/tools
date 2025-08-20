@@ -7,6 +7,7 @@
 | sendGrid                       | Tool for sending emails                                         |
 | mailtrap                       | Free tool for sending emails                                    |
 | httpstat.us                    | Web application which returns statuses: 200, 400 etc.           |
+| Leaflet.js                     | Tool for maps
 
 **Desktop Tools**:
 | Name                   | Description                                                                   | 
